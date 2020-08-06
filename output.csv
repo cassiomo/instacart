@@ -1,0 +1,23 @@
+order_id	order_date	user_id	avg_item_price	start_page_url	error_msg
+54374	20150501	123	7.5	http://www.insacart.com/favorites
+54356	20150501	124	32.325	http://www.insacart.com/favorites
+123	27.8	http://www.insacart.com/favorites
+54375	20150501	134	20.15	http://www.insacart.com/
+54376	20150501	126	9.375	http://www.insacart.com/
+12094	20150501	123	7.225	http://www.insacart.com
+129	8.4625	http://www.insacart.com/
+54374	20150501	125	36.4225	http://www.insacart.com/
+54564	20150501	126	12.4	http://www.insacart.com/
+54884	20150503	127	7.7475	http://www.insacart.com/favorites
+44374	20150501	128	16.15	http://www.insacart.com/favorites
+129	0.0	http://www.yahoo.com/
+54004	20150503	129	27.2		Invalid URL
+54974	20150503	120	7.675		Invalid URL
+54374	20150501	345	2.0	http://www.insacart.com/cart
+52374	20150401	5678	10.4175		Invalid URL
+4374	20150501	123	5.44	http://www.insacart.com/favorites
+n/a	423	10.4475	http://www.insacart.com/favorites
+424	5.4375	http://www.insacart.com/search
+549374	20150501	325	22.5	http://www.insacart.com/favorites
+54334	20150501	428	20.0	http://www.insacart.com/search
+50374	20150501	429	250.0	http://www.insacart.com/
